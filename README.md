@@ -1,5 +1,7 @@
 # hello-world
-Starting repository
+
+Hi Everyone!
+
 I'm Hydy Cates and I work as 
 the Electronic Resources Librarian
 at CSCC. 
